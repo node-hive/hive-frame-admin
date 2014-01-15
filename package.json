@@ -1,0 +1,27 @@
+{
+  "name": "hive-frame-admin",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A hive-mvc module for administration. Not a node module -- a site building block for a hive-mvc based project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/node-hive/hive-frame-admin.git"
+  },
+  "keywords": [
+    "hive-mvc"
+  ],
+  "author": "Dave Edelhart",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/node-hive/hive-frame-admin/issues"
+  },
+  "homepage": "https://github.com/node-hive/hive-frame-admin",
+  "dependencies": {
+    "moment": "~2.5.0",
+    "hive-menu": "~0.0.1"
+  }
+}
